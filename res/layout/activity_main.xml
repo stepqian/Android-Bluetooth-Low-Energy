@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              tools:context=".MainActivity">
+
+    <Button
+            android:id="@+id/btnEnabled"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查看是否打开蓝牙"/>
+
+    <Button
+            android:id="@+id/btnScan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="扫描蓝牙"/>
+    <Button
+            android:id="@+id/btnStopScan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="扫描停止"/>
+
+    <Button
+            android:id="@+id/btnBinding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="绑定Service"/>
+
+    <Button
+            android:id="@+id/btnUnBinding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="解除Service绑定"/>
+
+    <Button
+            android:id="@+id/btnConnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="蓝牙链接"/>
+
+    <Button
+            android:id="@+id/btnDisConnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="断开链接"/>
+
+    <Button
+            android:id="@+id/btnWeite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="书写数据"/>
+
+    <Button
+            android:id="@+id/selectServices"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查看活动的Services"/>
+</LinearLayout>

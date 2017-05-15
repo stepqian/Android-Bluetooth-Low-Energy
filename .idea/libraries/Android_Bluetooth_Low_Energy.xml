@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Android Bluetooth Low Energy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Android Bluetooth Low Energy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

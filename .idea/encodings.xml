@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/ByteTransform.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/belhandle/BLEHandle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/belservice/BluetoothLeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/bleslistener/BluetoothCountListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/bleslistener/GetServicesCountListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/bleslistener/WriteDataListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hongyeblis/androidbleblis/timeTask/TimeTask.java" charset="UTF-8" />
+  </component>
+</project>
